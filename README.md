@@ -6,13 +6,13 @@ Ao longo deste tutorial, você aprenderá sobre:
 
 1. [**Comentários**](#1-comentários): como adicionar informações e explicações ao seu código.
 2. [**Variáveis e tipos de dados**](#2-variáveis-e-tipos-de-dados): como armazenar e manipular informações em Python.
-3. [**Operadores aritméticos e de comparação**](#3-operadores-aritméticos-e-de-comparação): como realizar operações matemáticas e comparar valores.
-4. [**Operadores lógicos**](#4-operadores-lógicos): como combinar e inverter condições.
-5. [**Estruturas de controle de fluxo**](#5-estruturas-de-controle-de-fluxo): como criar ramificações e loops no código.
-6. [**Funções**](#6-funções): como organizar e reutilizar seu código com funções.
-7. [**Classes e objetos**](#7-classes-e-objetos): como criar e usar estruturas de dados personalizadas.
-8. [**Manipulação de exceções**](#8-manipulação-de-exceções): como lidar com erros e situações inesperadas.
-9. [**Importação de módulos e bibliotecas**](#9-importação-de-módulos-e-bibliotecas): como estender a funcionalidade do Python com pacotes externos.
+3. [**Operadores aritméticos**](#3-operadores-aritméticos): como realizar operações matemáticas.
+4. [**Operadores de comparação**](#4-operadores-de-comparação): como comparar valores.
+5. [**Operadores lógicos**](#5-operadores-lógicos): como combinar e inverter condições.
+6. [**Estruturas de controle de fluxo**](#6-estruturas-de-controle-de-fluxo): como criar ramificações e loops no código.
+7. [**Funções**](#7-funções): como organizar e reutilizar seu código com funções.
+8. [**Classes e objetos**](#8-classes-e-objetos): como criar e usar estruturas de dados personalizadas.
+9. [**Manipulação de exceções**](#9-Manipulação-de-exceções): como lidar com erros e situações inesperadas.
 10. [**Importação de módulos e bibliotecas**](#10-importação-de-módulos-e-bibliotecas): como estender a funcionalidade do Python com pacotes externos.
 
 Seja você um iniciante absoluto ou alguém com alguma experiência em programação, este tutorial foi projetado para ajudá-lo a construir uma base sólida em Python e aprimorar suas habilidades de codificação. Vamos começar!
